@@ -3,4 +3,4 @@
 Imparare GIT
 
 # riferimenti
-documentazione
+* documentazione
