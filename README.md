@@ -1,4 +1,4 @@
-#scopo del progetto
+# scopo del progetto
 
 Imparare GIT
 
